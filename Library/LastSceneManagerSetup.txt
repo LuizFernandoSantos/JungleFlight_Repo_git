@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Jungle_Flight_v0.09.unity
+  isLoaded: 1
+  isActive: 1
